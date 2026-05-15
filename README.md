@@ -1,5 +1,4 @@
-# TASK-2---Data-set-Preparation-and-data-analysis
-# 🩺 Diabetes Dataset Preparation & Feature Analysis
+# 🩺TASK-2 - Diabetes Dataset Preparation & Feature Analysis
 
 ## VAUTECH IT SOLUTIONS - TASK 2
 
