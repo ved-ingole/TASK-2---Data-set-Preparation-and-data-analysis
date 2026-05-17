@@ -138,8 +138,9 @@ Visualizations helped in:
 
 | File | Description |
 |---|---|
-| `diabetes_feature_analysis.ipynb` | Main notebook |
+| `TASK_2_Dataset_Preparation_for_Diabetes_Dataset.ipynb` | Main notebook containing complete dataset preparation & feature analysis |
 | `README.md` | Project documentation |
+| `dataset_37_diabetes.arff` | Original PIMA Indians Diabetes Dataset downloaded from OpenML |
 | `outputs/` | Saved graphs & charts |
 
 ---
